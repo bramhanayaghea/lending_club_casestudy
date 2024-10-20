@@ -1,2 +1,4 @@
-# lending_club_casestudy
-Lending Club Casestdy - Loan Default Risk Analysis
+# Lending Club Case Study
+Lending Club Casestudy - Loan Default Risk Analysis
+
+
