@@ -66,3 +66,5 @@
 Bramhanayaghe Arumugam  (github id : bramhanayaghea)
 Anusha Chaudhuri (github id : anusha761)
 
+Repo Link : https://github.com/bramhanayaghea/lending_club_casestudy
+
